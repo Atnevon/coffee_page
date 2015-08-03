@@ -1,0 +1,42 @@
+h1 {
+	color: yellow;
+	text-shadow: 2px 2px 8px #FF0000;
+}
+
+.navbar {
+	background-color: green;
+	border: 2px solid yellow;
+}
+
+.jumbotron h1 {
+	color: blue;
+}
+/*
+
+.container {
+	background: #999999;
+}
+
+.container p {
+	color: pink;
+}
+
+
+.container2 {
+	background: #D6D6FF;
+}
+
+
+.container2 p {
+	color: orange;
+	background: #000ccc;
+}
+
+.footer {
+	background: yellow;
+	vertical-align: middle;
+}
+
+.test123 h1 {
+	color: cyan;
+}
